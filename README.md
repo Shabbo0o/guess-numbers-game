@@ -1,3 +1,5 @@
+## guess-numbers-game
+
 This is a simple command line game. The game goes like this:
  
 1. The game will think of 3 digit number that has no repeating digits.
